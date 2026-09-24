@@ -1,24 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mina Saad Nazier</h1>
-<h3 align="center">A passionate SW engineer from Egypt</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minasaad123&label=Profile%20views&color=0e75b6&style=flat" alt="minasaad123" /> </p>
+<img src="assets/header.svg" alt="Mina Saad Nazeer, C/C++ and Systems Software Engineer" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minasaad123" alt="minasaad123" /></a> </p>
+<img src="assets/typing.svg" alt="Modern C++ (17/20), Linux system programming, networking and sockets, embedded systems and RTOS" width="100%" />
 
-- 🌱 I’m currently learning **linux, modern C++, Database and Networking**
-
-- 📫 How to reach me **menasaadna@gmail.com**
-
-- 📄 Know about my experiences  **[Resume](https://drive.google.com/file/d/1oRdM0WcYAR35oPIDEIQDfJQDrpAKlx5Q/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mina-saad-nazier-es/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mina-saad-nazier-es/" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/mina-saad-nazier-es/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="52" /></a>
+  <a href="mailto:menasaadna@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="52" /></a>
+  <a href="https://drive.google.com/file/d/1oRdM0WcYAR35oPIDEIQDfJQDrpAKlx5Q/view?usp=drive_link"><img src="assets/btn-resume.svg" alt="Resume" height="52" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minasaad123&show_icons=true&locale=en&layout=compact" alt="minasaad123" /></p>
+<img src="assets/heading-about.svg" alt="About" width="100%" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minasaad123&show_icons=true&locale=en" alt="minasaad123" /></p>
+<img src="assets/terminal.svg" alt="About: C/C++ and systems software engineer focused on modern C++, Linux system programming, networking, memory management and low-level software. Hands-on experience through STMicroelectronics and Siemens training, with projects in C++17, POSIX/Linux, sockets, multithreading and IPC." width="100%" />
+
+<img src="assets/heading-experience.svg" alt="Experience" width="100%" />
+
+<img src="assets/experience.svg" alt="Siemens, Digital Twins Apprenticeship, Jan 2026 to Apr 2026. STMicroelectronics, System Programming under Linux, Jul 2024 to Feb 2025." width="100%" />
+
+<img src="assets/heading-projects.svg" alt="Projects" width="100%" />
+
+<a href="https://github.com/MinaSaad123?tab=repositories"><img src="assets/projects.svg" alt="Projects: WireFish (packet sniffer in C with libpcap), RTOS from Scratch (ARM assembly and C), C++ Utilities Library (C++17/20), HTTP Server (C sockets on Linux), Custom Shell (C on Linux)." width="100%" /></a>
+
+<img src="assets/heading-skills.svg" alt="Skills" width="100%" />
+
+<img src="assets/skills.svg" alt="Skills: C++17/20, C, ARM assembly, Qt and QML, Linux/POSIX system programming, IPC, sockets, TCP/IP, HTTP, RTOS, STM32/AVR, UART, SPI, I2C, CAN, data structures, SOLID, design patterns, Git, Jira and Scrum." width="100%" />
+
+<img src="assets/heading-education.svg" alt="Education" width="100%" />
+
+<img src="assets/education.svg" alt="Sohag University, B.Sc. Electronics and Communication Engineering, Sep 2021 to Jun 2026. Graduation project: post-quantum cryptography hardware acceleration in the GPGPU Vortex." width="100%" />
+
+<img src="assets/heading-reading.svg" alt="Books I've Read" width="100%" />
+
+<img src="assets/books.svg" alt="Books I've read: C++ Primer, Effective C++, Template Metaprogramming with C++, C++ GUI Programming with Qt6, The Linux Programming Interface, Head First Java." width="100%" />
+
+<img src="assets/heading-contact.svg" alt="Get in Touch" width="100%" />
+
+<img src="assets/footer.svg" alt="Thanks for stopping by. Open to collaboration and new opportunities." width="100%" />
