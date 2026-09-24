@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="288" viewBox="0 0 900 288" role="img" aria-label="Books I've read: C++ Primer, Effective C++, Template Metaprogramming with C++, C++ GUI Programming with Qt6, The Linux Programming Interface, Head First Java">
+<title>Books I've read: C++ Primer, Effective C++, Template Metaprogramming with C++, C++ GUI Programming with Qt6, The Linux Programming Interface, Head First Java</title>
+<defs>
+
+</defs>
+<rect x="4.5" y="4.5" width="285.667" height="131" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="4.5" y="4.5" width="285.667" height="131" rx="12" fill="none" stroke="#58a6ff" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84"><animate attributeName="stroke-dashoffset" values="100;0" dur="6.5s" begin="0s" repeatCount="indefinite"/></rect>
+<g transform="translate(22 30)">
+  <rect x="0" y="8" width="19" height="34" rx="3" fill="#58a6ff" fill-opacity=".12" stroke="#58a6ff" stroke-width="1.6"/>
+  <rect x="19" y="8" width="19" height="34" rx="3" fill="#58a6ff" fill-opacity=".12" stroke="#58a6ff" stroke-width="1.6"/>
+  <g transform="translate(19 8)"><path d="M0 0H19V34H0Z" fill="#58a6ff" fill-opacity=".45" stroke="#58a6ff" stroke-width="1.2"><animateTransform attributeName="transform" type="scale" values="1 1;-1 1;-1 1;1 1;1 1" keyTimes="0;.3;.5;.8;1" dur="3.6s" begin="0s" repeatCount="indefinite"/></path></g>
+  <line x1="19" y1="8" x2="19" y2="42" stroke="#58a6ff" stroke-width="2"/>
+</g>
+<text x="76" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">C++ Primer</text>
+<text x="76" y="60" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#8b949e">Lippman, Lajoie &amp; Moo</text>
+<rect x="76" y="102" width="41.8" height="22" rx="11" fill="#58a6ff" fill-opacity=".12" stroke="#58a6ff" stroke-opacity=".6"/>
+<text x="96.9" y="117" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#58a6ff">C++</text>
+<g transform="translate(222.667 102)"><rect width="54" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
+  <path d="M10 11.5l3.2 3.2L19.5 8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></path>
+  <text x="36" y="15" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#3fb950">Read</text></g>
+<rect x="307.167" y="4.5" width="285.667" height="131" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="307.167" y="4.5" width="285.667" height="131" rx="12" fill="none" stroke="#ff7b72" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84"><animate attributeName="stroke-dashoffset" values="100;0" dur="6.5s" begin="0.9s" repeatCount="indefinite"/></rect>
+<g transform="translate(324.667 30)">
+  <rect x="0" y="8" width="19" height="34" rx="3" fill="#ff7b72" fill-opacity=".12" stroke="#ff7b72" stroke-width="1.6"/>
+  <rect x="19" y="8" width="19" height="34" rx="3" fill="#ff7b72" fill-opacity=".12" stroke="#ff7b72" stroke-width="1.6"/>
+  <g transform="translate(19 8)"><path d="M0 0H19V34H0Z" fill="#ff7b72" fill-opacity=".45" stroke="#ff7b72" stroke-width="1.2"><animateTransform attributeName="transform" type="scale" values="1 1;-1 1;-1 1;1 1;1 1" keyTimes="0;.3;.5;.8;1" dur="3.6s" begin="0.9s" repeatCount="indefinite"/></path></g>
+  <line x1="19" y1="8" x2="19" y2="42" stroke="#ff7b72" stroke-width="2"/>
+</g>
+<text x="378.667" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">Effective C++</text>
+<text x="378.667" y="60" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#8b949e">Scott Meyers</text>
+<rect x="378.667" y="102" width="41.8" height="22" rx="11" fill="#ff7b72" fill-opacity=".12" stroke="#ff7b72" stroke-opacity=".6"/>
+<text x="399.567" y="117" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#ff7b72">C++</text>
+<g transform="translate(525.333 102)"><rect width="54" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
+  <path d="M10 11.5l3.2 3.2L19.5 8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="0.9s" repeatCount="indefinite"/></path>
+  <text x="36" y="15" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#3fb950">Read</text></g>
+<rect x="609.833" y="4.5" width="285.667" height="131" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="609.833" y="4.5" width="285.667" height="131" rx="12" fill="none" stroke="#d2a8ff" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84"><animate attributeName="stroke-dashoffset" values="100;0" dur="6.5s" begin="1.8s" repeatCount="indefinite"/></rect>
+<g transform="translate(627.333 30)">
+  <rect x="0" y="8" width="19" height="34" rx="3" fill="#d2a8ff" fill-opacity=".12" stroke="#d2a8ff" stroke-width="1.6"/>
+  <rect x="19" y="8" width="19" height="34" rx="3" fill="#d2a8ff" fill-opacity=".12" stroke="#d2a8ff" stroke-width="1.6"/>
+  <g transform="translate(19 8)"><path d="M0 0H19V34H0Z" fill="#d2a8ff" fill-opacity=".45" stroke="#d2a8ff" stroke-width="1.2"><animateTransform attributeName="transform" type="scale" values="1 1;-1 1;-1 1;1 1;1 1" keyTimes="0;.3;.5;.8;1" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></path></g>
+  <line x1="19" y1="8" x2="19" y2="42" stroke="#d2a8ff" stroke-width="2"/>
+</g>
+<text x="681.333" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">Template Metaprogramming</text>
+<text x="681.333" y="58" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">with C++</text>
+<text x="681.333" y="80" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#8b949e">Marius Bancila</text>
+<rect x="681.333" y="102" width="121" height="22" rx="11" fill="#d2a8ff" fill-opacity=".12" stroke="#d2a8ff" stroke-opacity=".6"/>
+<text x="741.833" y="117" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#d2a8ff">C++ · Templates</text>
+<g transform="translate(828 102)"><rect width="54" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
+  <path d="M10 11.5l3.2 3.2L19.5 8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></path>
+  <text x="36" y="15" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#3fb950">Read</text></g>
+<rect x="4.5" y="152.5" width="285.667" height="131" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="4.5" y="152.5" width="285.667" height="131" rx="12" fill="none" stroke="#3fb950" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84"><animate attributeName="stroke-dashoffset" values="100;0" dur="6.5s" begin="2.7s" repeatCount="indefinite"/></rect>
+<g transform="translate(22 178)">
+  <rect x="0" y="8" width="19" height="34" rx="3" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-width="1.6"/>
+  <rect x="19" y="8" width="19" height="34" rx="3" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-width="1.6"/>
+  <g transform="translate(19 8)"><path d="M0 0H19V34H0Z" fill="#3fb950" fill-opacity=".45" stroke="#3fb950" stroke-width="1.2"><animateTransform attributeName="transform" type="scale" values="1 1;-1 1;-1 1;1 1;1 1" keyTimes="0;.3;.5;.8;1" dur="3.6s" begin="2.7s" repeatCount="indefinite"/></path></g>
+  <line x1="19" y1="8" x2="19" y2="42" stroke="#3fb950" stroke-width="2"/>
+</g>
+<text x="76" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">C++ GUI Programming with</text>
+<text x="76" y="206" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">Qt6</text>
+<rect x="76" y="250" width="74.8" height="22" rx="11" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".6"/>
+<text x="113.4" y="265" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#3fb950">Qt · GUI</text>
+<g transform="translate(222.667 250)"><rect width="54" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
+  <path d="M10 11.5l3.2 3.2L19.5 8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="2.7s" repeatCount="indefinite"/></path>
+  <text x="36" y="15" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#3fb950">Read</text></g>
+<rect x="307.167" y="152.5" width="285.667" height="131" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="307.167" y="152.5" width="285.667" height="131" rx="12" fill="none" stroke="#ffa657" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84"><animate attributeName="stroke-dashoffset" values="100;0" dur="6.5s" begin="3.6s" repeatCount="indefinite"/></rect>
+<g transform="translate(324.667 178)">
+  <rect x="0" y="8" width="19" height="34" rx="3" fill="#ffa657" fill-opacity=".12" stroke="#ffa657" stroke-width="1.6"/>
+  <rect x="19" y="8" width="19" height="34" rx="3" fill="#ffa657" fill-opacity=".12" stroke="#ffa657" stroke-width="1.6"/>
+  <g transform="translate(19 8)"><path d="M0 0H19V34H0Z" fill="#ffa657" fill-opacity=".45" stroke="#ffa657" stroke-width="1.2"><animateTransform attributeName="transform" type="scale" values="1 1;-1 1;-1 1;1 1;1 1" keyTimes="0;.3;.5;.8;1" dur="3.6s" begin="3.6s" repeatCount="indefinite"/></path></g>
+  <line x1="19" y1="8" x2="19" y2="42" stroke="#ffa657" stroke-width="2"/>
+</g>
+<text x="378.667" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">The Linux Programming</text>
+<text x="378.667" y="206" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">Interface</text>
+<text x="378.667" y="228" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#8b949e">Michael Kerrisk</text>
+<rect x="378.667" y="250" width="121" height="22" rx="11" fill="#ffa657" fill-opacity=".12" stroke="#ffa657" stroke-opacity=".6"/>
+<text x="439.167" y="265" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#ffa657">Linux · Systems</text>
+<g transform="translate(525.333 250)"><rect width="54" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
+  <path d="M10 11.5l3.2 3.2L19.5 8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="3.6s" repeatCount="indefinite"/></path>
+  <text x="36" y="15" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#3fb950">Read</text></g>
+<rect x="609.833" y="152.5" width="285.667" height="131" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="609.833" y="152.5" width="285.667" height="131" rx="12" fill="none" stroke="#79c0ff" stroke-width="2.2" pathLength="100" stroke-dasharray="16 84"><animate attributeName="stroke-dashoffset" values="100;0" dur="6.5s" begin="4.5s" repeatCount="indefinite"/></rect>
+<g transform="translate(627.333 178)">
+  <rect x="0" y="8" width="19" height="34" rx="3" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-width="1.6"/>
+  <rect x="19" y="8" width="19" height="34" rx="3" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-width="1.6"/>
+  <g transform="translate(19 8)"><path d="M0 0H19V34H0Z" fill="#79c0ff" fill-opacity=".45" stroke="#79c0ff" stroke-width="1.2"><animateTransform attributeName="transform" type="scale" values="1 1;-1 1;-1 1;1 1;1 1" keyTimes="0;.3;.5;.8;1" dur="3.6s" begin="4.5s" repeatCount="indefinite"/></path></g>
+  <line x1="19" y1="8" x2="19" y2="42" stroke="#79c0ff" stroke-width="2"/>
+</g>
+<text x="681.333" y="186" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700" fill="#e6edf3">Head First Java</text>
+<text x="681.333" y="208" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12.5" fill="#8b949e">Kathy Sierra &amp; Bert Bates</text>
+<rect x="681.333" y="250" width="88" height="22" rx="11" fill="#79c0ff" fill-opacity=".12" stroke="#79c0ff" stroke-opacity=".6"/>
+<text x="725.333" y="265" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#79c0ff">Java · OOP</text>
+<g transform="translate(828 250)"><rect width="54" height="22" rx="11" fill="#3fb950" fill-opacity=".14" stroke="#3fb950" stroke-opacity=".6"/>
+  <path d="M10 11.5l3.2 3.2L19.5 8" fill="none" stroke="#3fb950" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="4.5s" repeatCount="indefinite"/></path>
+  <text x="36" y="15" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="11.5" fill="#3fb950">Read</text></g>
+</svg>
