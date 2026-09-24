@@ -63,8 +63,8 @@ Graduation project: post-quantum cryptography hardware acceleration in the GPGPU
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinaSaad123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinaSaad123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages by commits" />
 
 <img src="https://streak-stats.demolab.com?user=MinaSaad123&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
