@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="248" viewBox="0 0 900 248" role="img" aria-label="Experience: Siemens and STMicroelectronics">
+<title>Experience: Siemens and STMicroelectronics</title>
+<defs>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#58a6ff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="k0"><rect x="64" y="6" width="832" height="108" rx="12"/></clipPath>
+<clipPath id="k1"><rect x="64" y="134" width="832" height="108" rx="12"/></clipPath>
+
+</defs>
+<line x1="30" y1="6" x2="30" y2="242" stroke="#30363d" stroke-width="2"/><line x1="30" y1="6" x2="30" y2="242" stroke="#58a6ff" stroke-width="2" stroke-dasharray="5 15" stroke-linecap="round"><animate attributeName="stroke-dashoffset" values="20;0" dur="1.4s" repeatCount="indefinite"/></line>
+<circle cx="30" cy="60" r="7" fill="#58a6ff"/>
+<circle cx="30" cy="60" r="7" fill="none" stroke="#58a6ff" stroke-width="2"><animate attributeName="r" values="7;18" dur="2.2s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2.2s" begin="0s" repeatCount="indefinite"/></circle>
+<line x1="38" y1="60" x2="64" y2="60" stroke="#30363d" stroke-width="2"/>
+<rect x="64.5" y="6.5" width="831" height="107" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="64.5" y="6.5" width="831" height="107" rx="12" fill="none" stroke="#00b4d8" stroke-width="2" pathLength="100" stroke-dasharray="12 88"><animate attributeName="stroke-dashoffset" values="100;0" dur="7s" begin="0s" repeatCount="indefinite"/></rect>
+<g clip-path="url(#k0)"><rect x="-56" y="6" width="110" height="108" fill="url(#sh)" transform="skewX(-20)"><animateTransform attributeName="transform" type="translate" values="0 0;992 0" dur="5s" begin="0s" repeatCount="indefinite" additive="sum"/></rect></g>
+<text x="88" y="42" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">Siemens</text>
+<text x="88" y="68" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#79c0ff">Digital Twins Apprenticeship</text>
+<text x="88" y="94" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#c9d1d9">Hands-on work in digital twin modeling and simulation of industrial systems.</text>
+<rect x="705.4" y="22" width="170.6" height="26" rx="13" fill="#12233b" stroke="#58a6ff" stroke-opacity=".6"/>
+<text x="790.7" y="39" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#58a6ff">Jan 2026 - Apr 2026</text>
+<circle cx="30" cy="188" r="7" fill="#58a6ff"/>
+<circle cx="30" cy="188" r="7" fill="none" stroke="#58a6ff" stroke-width="2"><animate attributeName="r" values="7;18" dur="2.2s" begin="0.7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="2.2s" begin="0.7s" repeatCount="indefinite"/></circle>
+<line x1="38" y1="188" x2="64" y2="188" stroke="#30363d" stroke-width="2"/>
+<rect x="64.5" y="134.5" width="831" height="107" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="64.5" y="134.5" width="831" height="107" rx="12" fill="none" stroke="#00b4d8" stroke-width="2" pathLength="100" stroke-dasharray="12 88"><animate attributeName="stroke-dashoffset" values="100;0" dur="7s" begin="1.5s" repeatCount="indefinite"/></rect>
+<g clip-path="url(#k1)"><rect x="-56" y="134" width="110" height="108" fill="url(#sh)" transform="skewX(-20)"><animateTransform attributeName="transform" type="translate" values="0 0;992 0" dur="5s" begin="1.2s" repeatCount="indefinite" additive="sum"/></rect></g>
+<text x="88" y="170" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#e6edf3">STMicroelectronics</text>
+<text x="88" y="196" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#79c0ff">System Programming under Linux</text>
+<text x="88" y="222" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13.5" fill="#c9d1d9">Hands-on experience with embedded Linux and system programming.</text>
+<rect x="705.4" y="150" width="170.6" height="26" rx="13" fill="#12233b" stroke="#58a6ff" stroke-opacity=".6"/>
+<text x="790.7" y="167" text-anchor="middle" font-family="'Fira Code', 'SFMono-Regular', Consolas, Menlo, 'Courier New', monospace" font-size="12" fill="#58a6ff">Jul 2024 - Feb 2025</text>
+</svg>

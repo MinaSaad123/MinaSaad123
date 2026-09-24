@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Thanks for stopping by">
+<title>Thanks for stopping by</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".55" stop-color="#0b2545"/><stop offset="1" stop-color="#0a3a6b"/></linearGradient>
+<clipPath id="clip"><rect width="900" height="150" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="900" height="150" fill="url(#bg)"/>
+<circle cx="700" cy="40" r="90" fill="#00b4d8" opacity=".12"><animate attributeName="cx" values="700;620;700" dur="11s" repeatCount="indefinite"/></circle>
+<text x="450" y="58" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Thanks for stopping by<animate attributeName="opacity" values="1;.75;1" dur="4s" repeatCount="indefinite"/></text>
+<text x="450" y="86" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#9db4d0">Open to collaboration and new opportunities</text>
+<path d="M0 112 Q112.5 92 225 112 T450 112 T675 112 T900 112 T1125 112 T1350 112 T1575 112 T1800 112 V160 H0 Z" fill="#58a6ff" opacity="0.25"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M0 124 Q112.5 102 225 124 T450 124 T675 124 T900 124 T1125 124 T1350 124 T1575 124 T1800 124 V160 H0 Z" fill="#0A66C2" opacity="0.35"><animateTransform attributeName="transform" type="translate" from="-450 0" to="0 0" dur="7s" repeatCount="indefinite"/></path>
+<path d="M0 136 Q112.5 120 225 136 T450 136 T675 136 T900 136 T1125 136 T1350 136 T1575 136 T1800 136 V160 H0 Z" fill="#071a33" opacity="0.95"><animateTransform attributeName="transform" type="translate" from="0 0" to="-450 0" dur="5s" repeatCount="indefinite"/></path>
+</g>
+<rect x=".5" y=".5" width="899" height="149" rx="16" fill="none" stroke="#30363d"/>
+</svg>
